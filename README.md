@@ -1,6 +1,7 @@
 # parallelSortOMP
-Sorting algorithms implement in serial and parallel OpenMP versions
-Sorting algorithms covered: Merge Sort, Quick Sort, and Enumeration Sort
+Sorting algorithms implement in serial and parallel OpenMP versions.
+
+Sorting algorithms covered: Merge Sort, Quick Sort, and Enumeration Sort.
 
 The main file to run everything is in project1.c.
 
