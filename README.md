@@ -23,3 +23,8 @@ algorithm of Merge Sort and Quick Sort.
   - “quick” for quick sort only run
   - “enum” for enumeration sort only run
   - “all” for all sort algorithms run
+
+## Requirements:
+- Environment: Ubuntu 20.04 or above
+- Packages required: openmpi-bin openmpi-common openmpi-doc libopenmpi-dev
+- To install packages: `sudo apt-get install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev`
