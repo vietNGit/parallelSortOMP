@@ -1,8 +1,3 @@
-/*
-    Name: Quoc Viet Nguyen
-    Student Number: 22112348
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -414,7 +409,6 @@ At most 4 arguments. Example format below:
 {action}: Includes following tags: d for default run; q for quick sort run; m for merge sort run; e for enumeration sort run; a for all sort run
 */
 int main(int argc, char *argv[]) {
-    printf("CITS3402 - Project 1: Quoc Viet Nguyen 22112348\n\n");
     srand(time(NULL));
     if (argc <2){
         int numThreads = 8;
