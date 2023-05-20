@@ -28,4 +28,7 @@ algorithm of Merge Sort and Quick Sort.
 ## Requirements:
 - Environment: Ubuntu 20.04 or above
 - Packages required: openmpi-bin openmpi-common openmpi-doc libopenmpi-dev
-- To install packages: `sudo apt-get install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev`
+- To install packages: 
+```
+sudo apt-get install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev
+```
